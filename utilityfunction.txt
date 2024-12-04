@@ -1,0 +1,17 @@
+print("message)=> print a message in console
+
+type(object)=> return data type of object
+
+input("message)=> read value from consol-> return string value
+
+round(object,precision) precision=.674657
+
+len()=> return length of object
+
+range()=> start,stop,end
+
+min()=> return smallest number
+
+max()=> return maximum number
+
+end=>same line
